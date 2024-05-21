@@ -1,0 +1,3 @@
+[submodule "lla-lab-3"]
+	path = lla-lab-3
+	url = git@github.com:IvShilin/lla-lab-3.git
